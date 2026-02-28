@@ -1,0 +1,26 @@
+# Entorno virtual
+venv/
+env/
+.venv/
+
+# Variables de entorno
+.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# SQLite (si algún día usas)
+*.sqlite3
+
+# Carpeta node si por error existe
+node_modules/
